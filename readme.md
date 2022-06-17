@@ -9,6 +9,7 @@ Utilizando Python este é um protótico simples de como seria um sistema de cada
 ## :handshake: Colaboradores
 <table>
   <tr>
+    <h1> Errado</>
     <td align="center">
       <a href="http://github.com/arthcc">
         <img src="https://avatars.githubusercontent.com/u/96892619?s=400&u=930bb8d2f2e0356a8e3becfaefef4da47d96501e&v=4" width="100px;" alt="Foto de Arthur no GitHub"/><br>
