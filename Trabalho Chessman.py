@@ -180,7 +180,7 @@ def cadastrar_cpf():
     return cpf_novo_cliente
 
 while True:
-    print("---------------------HOTEL DOS CRIA---------------------")
+    print("------------------HOTEL DOS CRIA------------------")
     print("\n Deseja fazer o check-in?")
     
     cliente_ou_funcionario = input (" 1- Cadastrar Check-in\n 2- Mostrar clientes\n Digite sua opção: ")
